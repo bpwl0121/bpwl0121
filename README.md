@@ -17,4 +17,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 May 2023 - To: 29 May 2023
+
+Total Time: 54 mins
+
+YAML       30 mins         >>>>>>>>>>>>>>-----------   56.27 %
+Markdown   23 mins         >>>>>>>>>>>--------------   43.73 %
+```
+
 <!--END_SECTION:waka-->

@@ -17,9 +17,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-221-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,5 +86,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2023 13:29:35 UTC
+ Last Updated on 30/05/2023 18:31:22 UTC
 <!--END_SECTION:waka-->

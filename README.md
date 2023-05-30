@@ -17,10 +17,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p>
 
 <!--START_SECTION:waka-->
- **🤓 My Personal GitHub Info** 
-
-```properties
-
-
-```undefined
 <!--END_SECTION:waka-->

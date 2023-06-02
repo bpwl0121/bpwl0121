@@ -27,7 +27,7 @@
  > 
 > 🏆 82 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
@@ -75,5 +75,5 @@ Windows                  3 hrs               ████░░░░░░░�
 ```
 
 
- Last Updated on 02/06/2023 09:20:41 UTC
+ Last Updated on 02/06/2023 09:31:12 UTC
 <!--END_SECTION:waka-->

@@ -22,9 +22,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-412-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-415-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,5 +80,5 @@ Windows                  4 hrs 4 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 04/06/2023 18:31:13 UTC
+ Last Updated on 05/06/2023 14:33:14 UTC
 <!--END_SECTION:waka-->

@@ -12,7 +12,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,ros,docker,azure,git,linux,py,pytorch,cmake,md&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,ros,docker,azure,git,linux,py,pytorch,cmake,githubactions,powershell,md&perline=6" />
   </a>
 </p>
 

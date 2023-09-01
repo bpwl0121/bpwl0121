@@ -63,16 +63,15 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      1 hr 18 mins        ████████████████████░░░░░   81.21 % 
-TeX                      18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2023 18:32:00 UTC
+ Last Updated on 01/09/2023 18:31:42 UTC
 <!--END_SECTION:waka-->

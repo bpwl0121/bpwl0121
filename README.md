@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wenliang Peng</h1>
-<h3 align="center">A passionate developer in AI and autonomous driving</h3>
+<h3 align="center">A passionate developer in AI</h3>
 
-- 🔭 I’m currently working on **ROS + Synthetic data generation**
+- 🔭 I’m currently working on **large language model**
 
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **large language model**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">

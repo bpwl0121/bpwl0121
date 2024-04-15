@@ -22,6 +22,8 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2016%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 119.4 kB Used in GitHub's Storage 
@@ -32,6 +34,42 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 14/04/2024 22:58:00 UTC
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+🌆 Daytime                111 commits         █████████░░░░░░░░░░░░░░░░   35.58 % 
+🌃 Evening                175 commits         ██████████████░░░░░░░░░░░   56.09 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Tuesday                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Thursday                 51 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 15/04/2024 18:33:52 UTC
 <!--END_SECTION:waka-->

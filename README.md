@@ -28,8 +28,6 @@
 
 > 📦 120.0 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -63,15 +61,18 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   35 mins             ██████████████████████░░░   86.30 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/10/2024 18:43:38 UTC
+ Last Updated on 27/10/2024 18:43:48 UTC
 <!--END_SECTION:waka-->

@@ -22,6 +22,8 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2058%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 120.2 kB Used in GitHub's Storage 
@@ -69,5 +71,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/01/2025 18:46:40 UTC
+ Last Updated on 10/01/2025 18:46:23 UTC
 <!--END_SECTION:waka-->

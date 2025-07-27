@@ -22,11 +22,13 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 153.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -75,5 +77,5 @@ Windows                  10 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 26/07/2025 18:47:24 UTC
+ Last Updated on 27/07/2025 18:47:55 UTC
 <!--END_SECTION:waka-->

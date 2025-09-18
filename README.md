@@ -22,13 +22,13 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 222 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,19 +63,17 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 7 mins        ████████████████████░░░░░   81.66 % 
-Markdown                 1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   8 hrs 50 mins       ████████████████████░░░░░   80.98 % 
+Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/09/2025 18:44:08 UTC
+ Last Updated on 18/09/2025 18:44:43 UTC
 <!--END_SECTION:waka-->

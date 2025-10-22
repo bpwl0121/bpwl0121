@@ -22,7 +22,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,16 +63,16 @@ Sunday                   90 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 40 mins       ████████████████████████░   97.53 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   5 hrs 47 mins       ████████████████████████░   97.11 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2025 18:46:13 UTC
+ Last Updated on 22/10/2025 18:47:36 UTC
 <!--END_SECTION:waka-->

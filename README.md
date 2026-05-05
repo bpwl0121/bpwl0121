@@ -22,13 +22,13 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 175.3 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,6 +36,47 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 04/05/2026 19:59:06 UTC
+```text
+🌞 Morning                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+🌆 Daytime                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌃 Evening                350 commits         ████████████░░░░░░░░░░░░░   49.02 % 
+🌙 Night                  243 commits         █████████░░░░░░░░░░░░░░░░   34.03 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Saturday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 57 mins       █████████████████░░░░░░░░   68.72 % 
+Markdown                 2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+Trae                     9 hrs 10 mins       ███████████████████████░░   90.49 % 
+VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+
+💻 Operating System: 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/05/2026 19:55:41 UTC
 <!--END_SECTION:waka-->

@@ -22,7 +22,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,5 +76,5 @@ Windows                  7 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 26/05/2026 20:28:20 UTC
+ Last Updated on 27/05/2026 20:30:56 UTC
 <!--END_SECTION:waka-->

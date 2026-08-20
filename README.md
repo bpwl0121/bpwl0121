@@ -22,9 +22,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,47 +65,47 @@ Sunday                   237 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 22 hrs 59 mins      ███████████████████░░░░░░   76.15 % 
-Python                   4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Lua                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 22 hrs 24 mins      ████████████████████░░░░░   78.21 % 
+Python                   3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Text                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Lua                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Codex CLI                15 hrs 56 mins      █████████████░░░░░░░░░░░░   52.80 % 
-VS Code                  12 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.78 % 
-Claude Code              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Codex Vscode             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Codex CLI                18 hrs 56 mins      █████████████████░░░░░░░░   66.11 % 
+VS Code                  9 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Codex Vscode             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  30 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 30 mins (97.74%)
+⏱ AI Coding Time: 28 hrs 7 mins (98.18%)
 
-✍️ 16,133 lines written by AI, 43 lines written by hand (99.73% AI-written)
+✍️ 16,943 lines written by AI, 44 lines written by hand (99.74% AI-written)
 
-🔤 26,323,088 Input Tokens, 2,514,135 Output Tokens
+🔤 27,821,038 Input Tokens, 2,376,248 Output Tokens
 
-💵 $628.25 Estimated AI Cost This Week
+💵 $573.28 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 475 AI Prompts
+🧠 36 AI Sessions, 460 AI Prompts
 
-GPT                      10,442 lines        █████████████████░░░░░░░░   66.56 % 
-Deepseek                 4,697 lines         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Glm                      549 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+GPT                      12,863 lines        ██████████████████░░░░░░░   73.60 % 
+Deepseek                 4,599 lines         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Glm                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📚 Verbose Prompter — average 2,228 characters per prompt
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 2,205 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.39% of changed lines were hand-edited
+🚀 High AI Trust — 1.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 18:59:11 UTC
+ Last Updated on 20/08/2026 19:07:52 UTC
 <!--END_SECTION:waka-->

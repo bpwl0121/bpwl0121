@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,40 +65,42 @@ Sunday                   246 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 38 mins      ███████████████░░░░░░░░░░   59.27 % 
-Markdown                 5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Python                   4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-TeX                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other                    13 hrs 47 mins      ███████████████░░░░░░░░░░   59.20 % 
+Markdown                 5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Python                   3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+TeX                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 15 mins      ███████████████████████░░   91.25 % 
+Codex CLI                2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 💻 Operating System: 
-Windows                  24 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 22 mins (98.73%)
+⏱ AI Coding Time: 22 hrs 45 mins (97.68%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,103,845,521 Input Tokens, 3,598,276 Output Tokens
+🔤 1,034,291,244 Input Tokens, 3,326,770 Output Tokens
 
-💵 $6543.80 Estimated AI Cost This Week
+💵 $6146.68 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 0 AI Prompts
+🧠 63 AI Sessions, 5 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
+📚 Verbose Prompter — average 1,546 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 21:17:09 UTC
+ Last Updated on 09/09/2026 21:01:40 UTC
 <!--END_SECTION:waka-->

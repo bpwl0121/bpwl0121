@@ -22,9 +22,9 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpwl0121&" alt="bpwl0121" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,30 +65,30 @@ Sunday                   246 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 11 mins      ██████████████░░░░░░░░░░░   57.89 % 
-Python                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Markdown                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-TeX                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    11 hrs 36 mins      ██████████████░░░░░░░░░░░   57.85 % 
+Python                   5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Markdown                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+TeX                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 56 mins      ██████████████████████░░░   89.92 % 
-Codex CLI                2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+VS Code                  17 hrs 56 mins      ██████████████████████░░░   89.42 % 
+Codex CLI                2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 💻 Operating System: 
-Windows                  21 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 31 mins (97.43%)
+⏱ AI Coding Time: 19 hrs 31 mins (97.31%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,007,848,577 Input Tokens, 3,352,768 Output Tokens
+🔤 962,453,356 Input Tokens, 3,164,521 Output Tokens
 
-💵 $5989.67 Estimated AI Cost This Week
+💵 $5723.98 Estimated AI Cost This Week
 
 🧠 66 AI Sessions, 5 AI Prompts
 
@@ -102,5 +102,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/09/2026 21:00:32 UTC
+ Last Updated on 11/09/2026 21:05:17 UTC
 <!--END_SECTION:waka-->

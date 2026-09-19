@@ -65,41 +65,42 @@ Sunday                   256 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 39 mins      ███████████████░░░░░░░░░░   60.02 % 
-Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Python                   3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Other                    7 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
+Markdown                 5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Python                   5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 22 mins      █████████████████████████   99.75 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  18 hrs 45 mins      █████████████████████████   99.74 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  19 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 57 mins (97.61%)
+⏱ AI Coding Time: 18 hrs 16 mins (97.17%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 26 lines written by hand (0.0% AI-written)
 
-🔤 747,445,126 Input Tokens, 3,121,522 Output Tokens
+🔤 741,102,928 Input Tokens, 3,201,933 Output Tokens
 
-💵 $4436.36 Estimated AI Cost This Week
+💵 $4409.82 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 3 AI Prompts
+🧠 60 AI Sessions, 3 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 1,487 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 21:02:40 UTC
+ Last Updated on 19/09/2026 20:51:51 UTC
 <!--END_SECTION:waka-->

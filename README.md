@@ -65,45 +65,44 @@ Sunday                   256 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 47 mins       ███████████████░░░░░░░░░░   58.51 % 
-Markdown                 4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Other                    7 hrs 27 mins       ██████████████░░░░░░░░░░░   54.46 % 
+Markdown                 4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Python                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 35 mins      █████████████████████░░░░   83.75 % 
-Codex CLI                1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+VS Code                  11 hrs 14 mins      █████████████████████░░░░   82.17 % 
+Codex CLI                1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  13 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 57 mins (99.54%)
+⏱ AI Coding Time: 13 hrs 37 mins (99.49%)
 
 ✍️ 211 lines written by AI, 26 lines written by hand (89.03% AI-written)
 
-🔤 683,615,823 Input Tokens, 2,996,182 Output Tokens
+🔤 611,360,272 Input Tokens, 2,655,721 Output Tokens
 
-💵 $4048.91 Estimated AI Cost This Week
+💵 $3622.63 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 9 AI Prompts
+🧠 59 AI Sessions, 8 AI Prompts
 
 GPT                      169 lines           ███████████████████░░░░░░   77.17 % 
 Codex-Vscode             50 lines            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 89.03% of written lines came from AI
-📄 Detailed Prompter — average 823 characters per prompt
+📄 Detailed Prompter — average 926 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 10.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 20:57:11 UTC
+ Last Updated on 21/09/2026 22:04:53 UTC
 <!--END_SECTION:waka-->

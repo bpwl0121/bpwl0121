@@ -65,31 +65,31 @@ Sunday                   256 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 27 mins       ██████████████░░░░░░░░░░░   54.46 % 
-Markdown                 4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Python                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Other                    4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.24 % 
+Markdown                 4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
+Python                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 14 mins      █████████████████████░░░░   82.17 % 
-Codex CLI                1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+VS Code                  8 hrs 32 mins       ███████████████████░░░░░░   77.77 % 
+Codex CLI                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Codex Vscode             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 💻 Operating System: 
-Windows                  13 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 37 mins (99.49%)
+⏱ AI Coding Time: 10 hrs 54 mins (99.37%)
 
 ✍️ 211 lines written by AI, 26 lines written by hand (89.03% AI-written)
 
-🔤 611,360,272 Input Tokens, 2,655,721 Output Tokens
+🔤 487,034,475 Input Tokens, 2,063,105 Output Tokens
 
-💵 $3622.63 Estimated AI Cost This Week
+💵 $2886.45 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 8 AI Prompts
+🧠 45 AI Sessions, 8 AI Prompts
 
 GPT                      169 lines           ███████████████████░░░░░░   77.17 % 
 Codex-Vscode             50 lines            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
@@ -104,5 +104,5 @@ GLM                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/09/2026 22:04:53 UTC
+ Last Updated on 22/09/2026 21:30:55 UTC
 <!--END_SECTION:waka-->
